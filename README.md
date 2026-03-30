@@ -1,2 +1,2 @@
 # Ai-apps
-ai apps développer
+ai apps developped
